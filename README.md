@@ -3,8 +3,13 @@
 The seventh version of nevcan.com, online from August 2022: my site as a GUE instructor and diving
 educator, with courses, a class calendar, gear rental prices and underwater projects.
 
-It is the site at **[nevcan.com](https://nevcan.com)** until v8 takes over www.nevcan.com. It then
-moves to v7.nevcan.com as part of the nevcan.com version archive, hidden from search engines.
+Online at **[v7.nevcan.com](https://v7.nevcan.com)** as part of the nevcan.com version archive,
+hidden from search engines. The current site is [www.nevcan.com](https://www.nevcan.com).
+
+When v8 replaced it at www.nevcan.com (November 2026), the pages were archived as they were, with
+a `noindex` meta tag, a `robots.txt` that disallows everything and StatCounter removed. Their
+content moved to [dive.nevcan.com](https://dive.nevcan.com); v8 redirects the two pages search
+engines still showed, `/gue/tf.html` and `/calendar.html`, there.
 
 ## Pages
 
